@@ -2,7 +2,7 @@
 **Laboratory 1 – Object-Oriented Programming and Computer Graphics**
 
 
-![Demo gry](ELO-ezgif.com-optimize.gif)
+![Demo gry](elo_gif.gif)
 
 ## My Modifications
 
@@ -19,5 +19,8 @@
 
 ### Enhanced Ship Movement
 - The plane slightly tilts when moving in a specific direction.
+
+### Game Over Screen
+- After losing all HP, a Game Over screen appears with the option to restart the game.
 
 
