@@ -1,6 +1,9 @@
 # obiektowka_labs
 **Laboratory 1 – Object-Oriented Programming and Computer Graphics**
 
+
+![Demo gry](ELO-ezgif.com-optimize.gif)
+
 ## My Modifications
 
 ### Changed Textures
